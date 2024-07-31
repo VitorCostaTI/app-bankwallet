@@ -18,7 +18,7 @@ npm install
 npm start
 ```
 
-* Em seguida o aplicativo sera iniciado indicando no terminal as opções de emulado disponiveis, como QR Code para acessa-lo pelo seu celular, emulador android de sua preferencia ou no proprio navegador.
+* Em seguida o aplicativo sera iniciado indicando no terminal as opções de emulador disponiveis, como QR Code para acessa-lo pelo seu celular, emulador android de sua preferencia ou no proprio navegador.
 
 * Esta documentação está em constante mudança então lembre-se de mante-la sempre atualizada e seguir as dicas aqui disponiveis.
 
